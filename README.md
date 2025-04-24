@@ -34,6 +34,12 @@
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt=react style="margin-bottom: 5px;" />
 </a>
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=whit alt=react style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white alt=react style="margin-bottom: 5px;" />
+</a>
 </p>
 <span>Backend</span>
 <!--- stats & Trophy (start) -->
@@ -51,6 +57,20 @@
 <p>
 <a href="">
 <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt=mongo style="margin-bottom: 5px;" />
+</a>
+<a href="">
+<img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white alt=mysql style="margin-bottom: 5px;" />
+</a>
+<a href="">
+<img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt=postgresql style="margin-bottom: 5px;" />
+</a>
+</p>
+<!--- end (start) -->
+<span>Test</span>
+<!--- stats & Trophy (start) -->
+<p>
+<a href="">
+<img src=https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white alt=jest style="margin-bottom: 5px;" />
 </a>
 
 </p>
