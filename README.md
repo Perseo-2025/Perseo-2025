@@ -4,10 +4,10 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Hello! 👋 Welcome to my GitHub Portfolio
+## Hola! 👋 Bienvenido a mi portafolio
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- ⚡ My name is Rey Perseo 🇵🇪, I am 21 years old and I am currently studying the last cycle of systems engineering and computer science 🎓. I like to explore new technologies and develop solutions efficiently. I am on my way to learning more about artificial intelligence 🤖, systems design, and cloud architecture. I consider myself a 💯 percent self-taught person, so I like to face new challenges. I like to share the information I acquire, that is why in my free time I edit my videos for TikTok 😎.
+- ⚡ Me llamo Rey Perseo 🇵🇪, tengo 21 años y actualmente estudio el último ciclo de Ingeniería de Sistemas e Informática 🎓. Me gusta explorar nuevas tecnologías y desarrollar soluciones eficientemente. Estoy aprendiendo más sobre inteligencia artificial 🤖, diseño de sistemas y arquitectura en la nube. Me considero un 💯 por ciento autodidacta, por lo que me gusta afrontar nuevos retos. Me gusta compartir la información que adquiero, por eso en mi tiempo libre edito mis vídeos para TikTok 😎.
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <span>Frontend</span>
