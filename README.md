@@ -1,7 +1,7 @@
-## Hola! 👋 Bienvenido a mi portafolio
+## 👨‍💻 Perseo.dev| Desarrollador de Software y Egresado en Ingeniería de Sistemas
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
-- ⚡ Me llamo Rey Perseo 🇵🇪, tengo 21 años y actualmente estudio el último ciclo de Ingeniería de Sistemas e Informática 🎓. Me gusta explorar nuevas tecnologías y desarrollar soluciones eficientemente. Estoy aprendiendo más sobre inteligencia artificial 🤖, diseño de sistemas y arquitectura en la nube. Me considero una persona 💯% autodidacta, por lo que me gusta afrontar nuevos retos. Me gusta compartir la información que adquiero, por eso en mi tiempo libre edito mis vídeos para TikTok 😎.
+Mi nombre Rey Perseo 🇵🇪, egresado de Ingeniería de Sistemas e Informática 🎓 con +3 años de experiencia en desarrollo de software, donde me especializo en frontend, backend y arquitectura en la nube AWS ☁️, actuando como líder al tomar decisiones estratégicas para elegir las mejores opciones que aseguren un desarrollo eficiente, escalable y optimizado, con un enfoque autodidacta en tecnologías emergentes y proyectos colaborativos. ¡Explora mis repositorios y conectemos! 🚀
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <span>Frontend</span>
