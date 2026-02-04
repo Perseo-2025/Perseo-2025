@@ -1,7 +1,7 @@
-## 👨‍💻 Perseo.dev| Desarrollador de Software y Egresado en Ingeniería de Sistemas
+## 👨‍💻 Perseo.dev | Software Developer and Systems Engineering 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
-Mi nombre Rey Perseo 🇵🇪, egresado de Ingeniería de Sistemas e Informática 🎓 con +3 años de experiencia en desarrollo de software, donde me especializo en frontend, backend y arquitectura en la nube AWS ☁️, actuando como líder al tomar decisiones estratégicas para elegir las mejores opciones que aseguren un desarrollo eficiente, escalable y optimizado, con un enfoque autodidacta en tecnologías emergentes y proyectos colaborativos. ¡Explora mis repositorios y conectemos! 🚀
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+My name is Rey Perseo 🇵🇪, a graduate in Systems Engineering and Computer Science 🎓 with over 3 years of experience in software development, specializing in frontend, backend, and AWS cloud architecture ☁️. I act as a leader in making strategic decisions to choose the best options that ensure efficient, scalable, and optimized development, with a self-taught approach to emerging technologies and collaborative projects. 🚀
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <span>Frontend</span>
